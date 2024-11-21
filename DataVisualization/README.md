@@ -1,6 +1,8 @@
+# Data Visualization
 Contains the Tutorial videos, examples of Python code in Jupyter Notebook and many more.
 
-If you want to learn computational physics using Fortran, this could be an excellent resources for you to rely on. 
+Read about the color choosing
+https://blog.datawrapper.de/beautifulcolors/
 
 # Easy to learn site in Python:
 [https://mohangiri1.github.io/Python](https://mohangiri1.github.io/Python)
